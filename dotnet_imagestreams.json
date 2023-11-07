@@ -143,7 +143,7 @@
                         },
                         "from": {
                             "kind": "DockerImage",
-                            "name": "registry.access.redhat.com/ubi8/dotnet-20:2.0"
+                            "name": "registry.access.redhat.com/dotnet/dotnet-20-rhel7"
                         }
                     }
                 ]
@@ -265,7 +265,7 @@
                         },
                         "from": {
                             "kind": "DockerImage",
-                            "name": "registry.access.redhat.com/ubi8/dotnet-20-runtime:2.0"
+                            "name": "registry.access.redhat.com/dotnet/dotnet-20-runtime-rhel7"
                         }
                     }
                 ]
